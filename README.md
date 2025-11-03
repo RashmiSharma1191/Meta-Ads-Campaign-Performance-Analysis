@@ -100,7 +100,6 @@ Top engaged countries: **US, India, Brazil, Germany, UK**
 ## 👩‍💻 **Developed By**
 **Rashmi Sharma**  
 *Seo Executive | Data Analyst | Power BI Developer* 
+📧 [Mail ID](mailto:rashusharma007@gmail.com)
 
-📧 Mail ID
-
-🔗 LinkedIn
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
