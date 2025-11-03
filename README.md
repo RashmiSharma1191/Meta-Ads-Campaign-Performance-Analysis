@@ -14,8 +14,8 @@ The report helps identify the best-performing platform, optimize ad spend, and u
 
 ## 🛠️ **Tool Used**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p> – for data cleaning, modeling, and dashboard creation  
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> – for data cleaning, modeling, and dashboard creation  
+</p>
 ---
 
 ## 📊 **Visuals Overview**  
