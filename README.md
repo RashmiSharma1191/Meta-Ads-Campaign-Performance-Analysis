@@ -29,7 +29,7 @@ The report helps identify the best-performing platform, optimize ad spend, and u
 
 Dashboard Overview :
 
-![Images](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis/blob/main/Meta%20Ads%20Performance%20Analysis.pdf)
+![Facebook And Instagram Dashboard](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis/blob/main/Meta%20Ads%20Performance%20Analysis.pdf)
 
 ---
 
