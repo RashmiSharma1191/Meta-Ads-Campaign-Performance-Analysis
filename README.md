@@ -27,8 +27,9 @@ The report helps identify the best-performing platform, optimize ad spend, and u
 6. **Hourly Trend – Area Chart:** Activity by hour of the day  
 7. **Ad Type – Matrix:** Side-by-side performance of ad types across platforms
 
-Dashboard Overview 
-![Dashboard Overview](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis/blob/main/Meta%20Ads%20Performance%20Analysis.pdf)
+Dashboard Overview :
+
+![Images](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis/blob/main/Meta%20Ads%20Performance%20Analysis.pdf)
 
 ---
 
